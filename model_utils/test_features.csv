@@ -1,0 +1,2 @@
+chroma_stft,spectral_centroid,spectral_bandwidth,spectral_rolloff,rms,zero_crossing_rate,target
+0.55666834,2815.289561806983,3864.228703339631,6455.214639827436,0.015278246,0.05376305104408353,test_sample
